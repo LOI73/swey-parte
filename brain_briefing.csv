@@ -1,3 +1,6 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
-2026.11.23;540;1350;0;1.0;0;*;PARTE DE PRUEBA neutro - sin sesgo
-2026.11.23;540;1350;0;1.0;0;NDX;prueba
+# Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
+# Parte emitido 2026-11-21 (sabado). Cierre viernes: SP500 6910 (-3.7%, semana -8.6%), NDX100 -10.4% semana, VIX 35.9.
+2026.11.23;0;1439;0;1.0;1;NI225;Tokyo cerrado lunes (Labour Thanksgiving) - sin mercado
+2026.11.23;0;1439;0;0.7;0;*;Defensivo: VIX 36 tras la peor semana desde 2020 / sobrevendido, rebote o continuacion posibles
+2026.11.23;1005;1035;0;0.6;0;*;PMI flash EEUU 15:45 Paris y Williams (NY Fed): cautela

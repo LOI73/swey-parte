@@ -1,6 +1,9 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-21 (sabado). Cierre viernes: SP500 6910 (-3.7%, semana -8.6%), NDX100 -10.4% semana, VIX 35.9.
+# Parte emitido 2026-11-22 22:40 Paris (domingo). Semana al 20-nov: SP500 6910 (-8.6%, correccion), NDX100 -10.4%, Dow -8%, VIX 35.9. Siete caidas seguidas; sobrevendido, rebote violento posible en semana corta de Thanksgiving.
 2026.11.23;0;1439;0;1.0;1;NI225;Tokyo cerrado lunes (Labour Thanksgiving) - sin mercado
 2026.11.23;0;1439;0;0.7;0;*;Defensivo: VIX 36 tras la peor semana desde 2020 / sobrevendido, rebote o continuacion posibles
+2026.11.23;0;1439;-1;1.0;0;NDX;Tendencia bajista: Nasdaq -10% semana, Nvidia -23% y revision SEC, ruptura media 200 dias
+2026.11.23;0;1439;-1;1.0;0;SP500;Correccion de mas del 10% desde maximos, siete sesiones seguidas a la baja
+2026.11.23;0;1439;0;1.0;0;WS30;Dow -8% semana, sin sesgo por riesgo de rebote tecnico
 2026.11.23;1005;1035;0;0.6;0;*;PMI flash EEUU 15:45 Paris y Williams (NY Fed): cautela

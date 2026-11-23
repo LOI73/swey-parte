@@ -1,9 +1,9 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-23 16:15 Paris (lunes). Fuerte rebote en la apertura de EEUU (titulos hablan de S&P +3.9% y Nasdaq +5.8% con VIX a la baja) tras el desplome del viernes: volatilidad extrema, sin sesgo y cautela alta.
+# Parte emitido 2026-11-23 19:10 Paris (lunes). Rebote historico en EEUU (Nasdaq +6-7% por regreso de Huang a Nvidia, Dow +1300 pts) tras el desplome previo: volatilidad extrema, sin sesgo y cautela alta.
 2026.11.23;0;1439;0;1.0;1;NI225;Tokyo cerrado lunes (Labour Thanksgiving) - sin mercado
 2026.11.23;0;1439;0;0.7;0;*;Defensivo: rebote violento tras caida del viernes con gaps enormes; VIX aun elevado y movimiento sin confirmar
-2026.11.23;0;1439;0;1.0;0;NDX;Rebote fuerte del Nasdaq tras viernes -5.6%: sin sesgo hasta ver cierre
+2026.11.23;0;1439;0;1.0;0;NDX;Nasdaq +6-7% por Nvidia/Huang tras desplome: sin sesgo, riesgo de reversion
 2026.11.23;0;1439;0;1.0;0;SP500;Rebote fuerte tras correccion mayor 10%: sin sesgo
 2026.11.23;0;1439;0;1.0;0;WS30;Dow rebota tras caida del viernes: sin sesgo
 2026.11.23;1170;1260;0;0.9;0;*;Subasta bono 2 anios 19:00 Paris y Zoom tras cierre: mercado nervioso

@@ -1,14 +1,14 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-23 10:15 Paris (lunes). Rebote fuerte de futuros (NDX +2.8% SP500 +2.2%) tras el viernes NDX -5.6% y VIX 35.9 con Fed 98% a subir en dic: sin sesgo y cautela alta.
+# Parte emitido 2026-11-23 13:15 Paris (lunes). Futuros mantienen rebote de ~2-3% tras el viernes NDX -5.6% con VIX 36 y yields al alza antes del discurso de Williams (Fed): sin sesgo y cautela alta.
 2026.11.23;0;1439;0;1.0;1;NI225;Tokyo cerrado lunes (Labour Thanksgiving) - sin mercado
 2026.11.23;0;1439;0;0.7;0;*;Defensivo: VIX 36 en backwardation y spreads high yield en maximos; rebote o continuacion posibles
 2026.11.23;0;1439;0;1.0;0;NDX;Futuros +2.8% tras viernes -5.6%: rebote contra tendencia sin confirmar
 2026.11.23;0;1439;0;1.0;0;SP500;Correccion mayor 10% y futuros +2.2%: sin sesgo
 2026.11.23;0;1439;0;1.0;0;WS30;Dow -1.9% el viernes y rebote moderado: sin sesgo
-2026.11.23;990;1035;0;0.9;0;*;Apertura EEUU 15:30 Paris y PMI flash 15:45: volatilidad al abrir
+2026.11.23;990;1035;0;0.9;0;*;Apertura EEUU 15:30 Paris y PMI flash 15:45: volatilidad al abrir; discurso Williams Fed y subida de yields
 2026.11.23;1170;1260;0;0.9;0;*;Subasta bono 2 anios 19:00 Paris y Zoom tras cierre: mercado nervioso
-2026.11.24;0;1439;0;0.8;0;*;Martes: VIX alto, resultados Dell Autodesk Workday tras cierre y semana corta de Thanksgiving
+2026.11.24;0;1439;0;0.8;0;*;Martes: VIX alto, semana de PCE y Fed, resultados Dell Autodesk Workday tras cierre y semana corta de Thanksgiving
 2026.11.24;0;1439;0;1.0;0;NDX;Sin sesgo hasta confirmar si el rebote aguanta
 2026.11.24;0;1439;0;1.0;0;SP500;Sin sesgo hasta confirmar si el rebote aguanta
 2026.11.24;0;1439;0;1.0;0;WS30;Sin sesgo por riesgo de rebote tecnico

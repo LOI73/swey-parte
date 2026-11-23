@@ -1,14 +1,14 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-23 00:15 Paris (lunes). Sin datos nuevos desde el cierre del viernes: SP500 6910 (-8.6% semana), NDX -10.4%, VIX 35.9, sobrevendido, semana corta de Thanksgiving; se mantiene sesgo previo y cautela.
+# Parte emitido 2026-11-23 02:20 Paris (lunes). Futuros rebotan fuerte el domingo noche (NDX +2.9%) tras el viernes NDX -5.6% / SP500 -3.7% y VIX 35.9: sobrevendido extremo, sesgo a neutro por conflicto rebote vs tendencia; cautela alta.
 2026.11.23;0;1439;0;1.0;1;NI225;Tokyo cerrado lunes (Labour Thanksgiving) - sin mercado
-2026.11.23;0;1439;0;0.7;0;*;Defensivo: VIX 36 tras la peor semana desde 2020 / sobrevendido, rebote o continuacion posibles
-2026.11.23;0;1439;-1;1.0;0;NDX;Tendencia bajista: Nasdaq -10% semana, Nvidia -23% y revision SEC, ruptura media 200 dias
-2026.11.23;0;1439;-1;1.0;0;SP500;Correccion de mas del 10% desde maximos, siete sesiones seguidas a la baja
-2026.11.23;0;1439;0;1.0;0;WS30;Dow -8% semana, sin sesgo por riesgo de rebote tecnico
-2026.11.23;1005;1035;0;0.6;0;*;PMI flash EEUU 15:45 Paris y Williams (NY Fed): cautela
-2026.11.24;0;1439;0;0.8;0;*;Martes: VIX alto y sobrevendido, cautela tras semana corta de Thanksgiving
-2026.11.24;0;1439;-1;1.0;0;NDX;Mantiene tendencia bajista del parte previo
-2026.11.24;0;1439;-1;1.0;0;SP500;Mantiene tendencia bajista del parte previo
+2026.11.23;0;1439;0;0.7;0;*;Defensivo: VIX 36 y RSI SP500 bajo 30, rebote o continuacion posibles
+2026.11.23;0;1439;0;1.0;0;NDX;Futuros +2.9% tras caida del viernes -5.6% y Nvidia -14% por investigacion SEC: sin sesgo
+2026.11.23;0;1439;0;1.0;0;SP500;Correccion mayor 10% y futuros +2.1%: rebote contra tendencia, sin sesgo
+2026.11.23;0;1439;0;1.0;0;WS30;Dow en correccion pero futuros +1.4%: sin sesgo
+2026.11.23;990;1035;0;0.8;0;*;Apertura EEUU 15:30 Paris y PMI flash de la semana: volatilidad al abrir
+2026.11.24;0;1439;0;0.8;0;*;Martes: VIX alto tras semana de caos, resultados Dell Autodesk Workday y semana corta de Thanksgiving
+2026.11.24;0;1439;0;1.0;0;NDX;Sin sesgo hasta confirmar si el rebote aguanta
+2026.11.24;0;1439;0;1.0;0;SP500;Sin sesgo hasta confirmar si el rebote aguanta
 2026.11.24;0;1439;0;1.0;0;WS30;Sin sesgo por riesgo de rebote tecnico
-2026.11.24;0;1439;0;1.0;0;NI225;Tokyo abre tras festivo; sin sesgo claro
+2026.11.24;0;1439;0;1.0;0;NI225;Tokyo reabre tras festivo y tras la volatilidad de Nueva York: sin sesgo claro

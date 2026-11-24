@@ -1,14 +1,21 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-23 23:05 Paris (lunes). Cierre EEUU con mejor dia desde abril 2025 (Nasdaq +6%, S&P +5%, Nvidia +31% por regreso de Huang) tras el desplome previo: volatilidad extrema, sin sesgo y cautela alta.
-2026.11.23;0;1439;0;1.0;1;NI225;Tokyo cerrado lunes (Labour Thanksgiving) - sin mercado
-2026.11.23;0;1439;0;0.7;0;*;Defensivo: rebote violento tras caida del viernes con gaps enormes; VIX aun elevado y movimiento sin confirmar
-2026.11.23;0;1439;0;1.0;0;NDX;Nasdaq +6% por Nvidia/Huang tras desplome: sin sesgo, riesgo de reversion
-2026.11.23;0;1439;0;1.0;0;SP500;Rebote fuerte +5% tras correccion mayor 10%: sin sesgo
-2026.11.23;0;1439;0;1.0;0;WS30;Dow rebota tras caida del viernes: sin sesgo
-2026.11.24;0;1439;0;0.8;0;*;Martes: volatilidad alta tras rebote, semana de PCE y Fed, resultados Dell Autodesk Workday tras cierre y semana corta de Thanksgiving
+# Parte emitido 2026-11-24 08:10 Paris (martes). Tras el rebote del lunes (S&P +4.7% Dow +3.0% Nasdaq +6.5% Nvidia +30% por regreso de Huang) los futuros estan planos y VIX baja de 40 a ~27: sin sesgo y cautela; semana corta con PCE el miercoles y Thanksgiving el jueves.
+2026.11.24;0;1439;0;0.8;0;*;Martes: VIX aun ~27 tras el rebote del lunes y bono 10a EEUU en 4.95% con dolar firme; futuros planos. Hoy 16:00 Paris confianza consumidor EEUU. Resultados Dell Autodesk Workday tras cierre
 2026.11.24;0;1439;0;1.0;0;NDX;Sin sesgo hasta confirmar si el rebote aguanta
 2026.11.24;0;1439;0;1.0;0;SP500;Sin sesgo hasta confirmar si el rebote aguanta
 2026.11.24;0;1439;0;1.0;0;WS30;Sin sesgo por riesgo de rebote tecnico
-2026.11.24;0;1439;0;1.0;0;NI225;Tokyo reabre tras festivo y gran rebote de EEUU: sin sesgo claro
-2026.11.24;0;485;0;0.9;0;NI225;Apertura Tokyo con gap tras el rebote de EEUU: recorte extra en sesion Asia
+2026.11.24;0;1439;0;1.0;0;NI225;Nikkei cerro con fuerte subida tras reabrir del festivo (+4%) sin sesgo
+2026.11.24;0;485;0;0.9;0;NI225;Sesion Asia ya con gran subida acumulada: recorte extra
+2026.11.24;1000;1080;0;0.9;0;*;Confianza del consumidor EEUU 16:00 Paris (17:00 servidor): dato medio
+2026.11.25;0;1439;0;0.8;0;*;Miercoles vispera de Thanksgiving: PCE octubre 14:30 Paris (consenso core +0.3% m/m) GDP T3 14:30 (cons 3.1%) paro semanal 14:30 (cons 200k) ventas viviendas nuevas 16:00 Paris. Liquidez baja por la tarde
+2026.11.25;900;1020;0;0.7;0;*;Ventana de datos EEUU 14:30 Paris (15:30 servidor) PCE GDP y paro: volatilidad alta, no perseguir el primer impulso
+2026.11.25;0;1439;0;1.0;0;NDX;Sin sesgo
+2026.11.25;0;1439;0;1.0;0;SP500;Sin sesgo
+2026.11.25;0;1439;0;1.0;0;WS30;Sin sesgo
+2026.11.25;0;1439;0;1.0;0;NI225;Sin sesgo tras el rebote
+2026.11.26;0;1439;0;1.0;1;NDX;EEUU cerrado por Thanksgiving: sin entradas
+2026.11.26;0;1439;0;1.0;1;SP500;EEUU cerrado por Thanksgiving: sin entradas
+2026.11.26;0;1439;0;1.0;1;WS30;EEUU cerrado por Thanksgiving: sin entradas
+2026.11.26;0;1439;0;0.9;0;NI225;Tokyo abierto pero sin referencia de Wall Street y liquidez baja: cautela
+2026.11.27;0;1439;0;0.8;0;*;Viernes 27 (referencia): EEUU cierre anticipado 19:00 Paris y IPC aleman 08:00 Paris

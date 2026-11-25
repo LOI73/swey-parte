@@ -1,12 +1,12 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-25 00:10 servidor (24-nov 23:10 Paris). Martes: chips se desploman tras el rebote de Nvidia (Nvidia -7% AMD -9% Micron -10%) Nasdaq ~-2% S&P ~-0.8% Dow +0.6%; VIX ~27 bono 10a 4.90% oro -2.6% petroleo ~81; mercado descuenta 95% subida Fed 25pb en diciembre y PCE miercoles puede mover a 50pb.
+# Parte emitido 2026-11-25 09:15 servidor (08:15 Paris). Martes: chips se desploman tras el rebote de Nvidia (SOX -7.9% Nvidia -6% AMD -9%) Nasdaq y S&P a la baja Dow sube y recupera 50000; VIX ~27 bono 10a 4.90% oro -2.6% petroleo ~81; mercado descuenta 95% subida Fed 25pb en diciembre y PCE miercoles puede mover a 50pb.
 2026.11.25;0;1439;0;0.8;0;*;Miercoles vispera de Thanksgiving: VIX ~27 y vuelta de apuestas de subida de tipos Fed (8-9 dic). Tras caida de chips martes Nasdaq fragil. Sin sesgo por rebote tecnico y dia de datos
 2026.11.25;930;1020;0;0.7;0;*;Datos EEUU 14:30 Paris (15:30 servidor): PCE octubre (hoy clave: dato alto sube probabilidad de 50pb) PCE core GDP T3 y paro semanal. Ademas ventas viviendas nuevas 16:00 Paris. Volatilidad alta no perseguir primer impulso
 2026.11.25;1020;1439;0;0.8;0;*;Tarde vispera de festivo EEUU con liquidez baja y posibles movimientos bruscos en chips
 2026.11.25;0;1439;0;1.0;0;NDX;Sin sesgo: chips en retirada tras +30% de Nvidia el lunes pero sin confirmacion de tendencia
 2026.11.25;0;1439;0;1.0;0;SP500;Sin sesgo
-2026.11.25;0;1439;0;1.0;0;WS30;Sin sesgo: Dow resiste mejor que tecnologia (rotacion)
+2026.11.25;0;1439;0;1.0;0;WS30;Sin sesgo: Dow resiste mejor que tecnologia (rotacion) y recupera 50000
 2026.11.25;0;1439;0;1.0;0;NI225;Sin sesgo: Nikkei muy cargado de tecnologia y chips, riesgo de apertura debil tras la caida de Nvidia en Wall Street
 2026.11.25;0;485;0;0.9;0;NI225;Sesion Asia tras caida de chips en EEUU: recorte extra
 2026.11.26;0;1439;0;1.0;1;NDX;EEUU cerrado por Thanksgiving: sin entradas

@@ -1,20 +1,12 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026-11-25 15:15 servidor (14:15 Paris). Miercoles: futuros Nasdaq caen hasta -3% con la venta de chips profundizandose antes del PCE (VIX ~29 oro bajo presion) y mercado apostando por subida Fed en diciembre; EEUU cierra jueves por Thanksgiving.
-2026.11.25;0;1439;0;0.8;0;*;Miercoles vispera de Thanksgiving: VIX ~27 y vuelta de apuestas de subida de tipos Fed (8-9 dic). Tras caida de chips martes Nasdaq fragil. Sin sesgo por rebote tecnico y dia de datos
-2026.11.25;930;1020;0;0.7;0;*;Datos EEUU 14:30 Paris (15:30 servidor): PCE octubre (hoy clave: dato alto sube probabilidad de 50pb) PCE core GDP T3 y paro semanal. Ademas ventas viviendas nuevas 16:00 Paris. Volatilidad alta no perseguir primer impulso
-2026.11.25;1020;1439;0;0.8;0;*;Tarde vispera de festivo EEUU con liquidez baja y posibles movimientos bruscos en chips
-2026.11.25;0;1439;0;0.8;0;NDX;Sin sesgo: futuros Nasdaq -3% con venta de chips y VIX ~29 sin confirmacion de tendencia aun. Recorte extra
-2026.11.25;0;1439;0;1.0;0;SP500;Sin sesgo
-2026.11.25;0;1439;0;1.0;0;WS30;Sin sesgo: Dow resiste mejor que tecnologia (rotacion) y recupera 50000
-2026.11.25;0;1439;0;1.0;0;NI225;Sin sesgo: Nikkei muy cargado de tecnologia y chips, riesgo de apertura debil tras la caida de Nvidia en Wall Street
-2026.11.25;0;485;0;0.9;0;NI225;Sesion Asia tras caida de chips en EEUU: recorte extra
-2026.11.26;0;1439;0;1.0;1;NDX;EEUU cerrado por Thanksgiving: sin entradas
-2026.11.26;0;1439;0;1.0;1;SP500;EEUU cerrado por Thanksgiving: sin entradas
-2026.11.26;0;1439;0;1.0;1;WS30;EEUU cerrado por Thanksgiving: sin entradas
-2026.11.26;0;1439;0;0.9;0;NI225;Tokyo abierto (jueves) pero sin referencia de Wall Street cerrado y reaccion tardia al PCE: cautela
-2026.11.27;0;1439;0;0.8;0;*;Viernes 27: EEUU media sesion con cierre anticipado 13:00 ET (19:00 Paris = 20:00 servidor) liquidez muy baja. Viernes sin entradas desde las 20:00 servidor. IPC aleman por la manana
-2026.11.27;900;1199;0;0.8;0;NDX;Sesion corta y fina de EEUU tras Thanksgiving: sin sesgo y tamano reducido
-2026.11.27;900;1199;0;0.8;0;SP500;Sesion corta y fina de EEUU tras Thanksgiving: sin sesgo y tamano reducido
-2026.11.27;900;1199;0;0.8;0;WS30;Sesion corta y fina de EEUU tras Thanksgiving: sin sesgo y tamano reducido
-2026.11.27;0;485;0;0.9;0;NI225;Sesion Asia viernes con referencia debil de EEUU
+# Parte emitido 2026.11.26 00:10 servidor (23:10 Paris del 25-nov). Cierre miercoles: NDX 26047 -0.64% SP500 7183 -0.25% Dow 50183 +0.33% tras reversion intradia (Dow -1100 pts y Nvidia -8% en maximos de caida) con VIX 28.3 y PCE core 3.3% vs 3.2% previsto; mercado descuenta casi seguro subida Fed en diciembre; EEUU cerrado jueves y media sesion viernes.
+2026.11.26;0;1439;0;1.0;1;NDX;EEUU cerrado por Thanksgiving: sin entradas. Referencia cierre miercoles 26047 -0.64% con VIX 28.3 y chips muy volatiles (Nvidia -3.9% tras caer 8% intradia)
+2026.11.26;0;1439;0;1.0;1;SP500;EEUU cerrado por Thanksgiving: sin entradas. Cierre miercoles 7183 -0.25%
+2026.11.26;0;1439;0;1.0;1;WS30;EEUU cerrado por Thanksgiving: sin entradas. Cierre miercoles 50183 +0.33% tras recuperar una caida de 1100 pts
+2026.11.26;0;1439;0;0.8;0;NI225;Tokyo abierto (jueves) sin referencia de Wall Street en vivo. Sesion Asia hasta 09:05 servidor. Chips y tecnologia muy pesados en el indice tras sacudida de Nvidia y VIX 28. Decision BOK y discurso Tamura BoJ jueves (hora por confirmar) pueden mover yen. Sin sesgo
+2026.11.27;0;1439;0;0.8;0;*;Viernes 27: EEUU media sesion con cierre 13:00 ET (19:00 Paris = 20:00 servidor) y liquidez muy baja. Viernes sin entradas desde 20:00 servidor. VIX alto y PCE core caliente con subida Fed en diciembre casi descontada. IPC aleman por la manana (hora por confirmar)
+2026.11.27;990;1199;0;0.9;0;NDX;Apertura EEUU 15:30 Paris (16:30 servidor) tras Thanksgiving: sesion corta y fina con chips volatiles. Sin sesgo y tamano reducido
+2026.11.27;990;1199;0;0.9;0;SP500;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina. Sin sesgo
+2026.11.27;990;1199;0;0.9;0;WS30;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina. Sin sesgo
+2026.11.30;0;1439;0;0.9;0;*;Lunes 30 cierre de mes con VIX alto (~28) y riesgo de subida Fed en diciembre y aranceles nuevos hasta 20% propuestos. Mercados abiertos normal. Sin sesgo hasta ver reaccion de chips tras el fin de semana

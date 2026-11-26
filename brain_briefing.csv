@@ -1,12 +1,14 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026.11.26 servidor (jueves, Thanksgiving). Asia rebota por IA: Nikkei 57769 +1.3% (tras -2.8%) con SoftBank +9%, Kospi +1.2%; cierre miercoles NDX 26047 -0.64% SP500 7183 -0.25% Dow 50183 +0.33% con VIX ~28, 10 anios ~4.86%, Brent 91 WTI 84, USDJPY 159.1; subida Fed en diciembre casi descontada, aranceles nuevos propuestos; EEUU cerrado hoy y media sesion viernes.
-2026.11.26;0;1439;0;1.0;1;NDX;EEUU cerrado por Thanksgiving: sin entradas. Referencia cierre miercoles 26047 -0.64% con VIX 28.3 y chips muy volatiles (Nvidia -3.9% tras caer 8% intradia)
-2026.11.26;0;1439;0;1.0;1;SP500;EEUU cerrado por Thanksgiving: sin entradas. Cierre miercoles 7183 -0.25%
-2026.11.26;0;1439;0;1.0;1;WS30;EEUU cerrado por Thanksgiving: sin entradas. Cierre miercoles 50183 +0.33% tras recuperar una caida de 1100 pts
-2026.11.26;0;1439;0;0.8;0;NI225;Tokyo abierto jueves: Nikkei 57769 +1.3% rebote por IA/chips (SoftBank +9%) tras -2.8% ayer sin Wall Street en vivo. Sesion Asia hasta 09:05 servidor. VIX 28 y USDJPY 159 con riesgo de intervencion/BoJ mueven yen. Sin sesgo
-2026.11.27;0;1439;0;0.8;0;*;Viernes 27: EEUU media sesion con cierre 13:00 ET (19:00 Paris = 20:00 servidor) y liquidez muy baja. Viernes sin entradas desde 20:00 servidor. VIX alto y PCE core caliente con subida Fed en diciembre casi descontada. IPC aleman por la manana (hora por confirmar)
-2026.11.27;990;1199;0;0.9;0;NDX;Apertura EEUU 15:30 Paris (16:30 servidor) tras Thanksgiving: sesion corta y fina con chips volatiles. Sin sesgo y tamano reducido
+# Parte emitido 2026.11.27 00:10 servidor (viernes, tras Thanksgiving). Mercado nervioso por IA/chips y tipos: Nikkei ~57500-57800 (jueves +1.4% rebote, cierre exacto sin confirmar) tras -5% desde 61126 del 13-nov; Wall Street cerro miercoles NDX 26047 SP500 7183 Dow 50183 con VIX ~28; 10 anios ~4.81-4.86% con PCE core 3.3% y subida Fed de diciembre ~96% descontada; aranceles nuevos previstos para 2027; EEUU media sesion hoy. Sin confirmacion de tendencia: sesgo neutro.
+2026.11.27;0;1439;0;0.8;0;*;Viernes 27: EEUU media sesion con cierre 13:00 ET (19:00 Paris = 20:00 servidor) y liquidez muy baja tras Thanksgiving. Viernes sin entradas desde 20:00 servidor. VIX alto ~28 y subida Fed en diciembre casi descontada. Posible dato aleman IPC por la manana (hora por confirmar)
+2026.11.27;0;485;0;1.0;0;NI225;Tokyo abierto viernes con Nikkei ~57500-57800 tras rebote por IA/chips del jueves (SoftBank +9%). Sin Wall Street ayer: sesion sin guia de EEUU. USDJPY ~159 riesgo intervencion. Sin sesgo
+2026.11.27;990;1199;0;0.9;0;NDX;Apertura EEUU 15:30 Paris (16:30 servidor) tras Thanksgiving: sesion corta y fina con chips volatiles. Cierre 19:00 Paris. Sin sesgo
 2026.11.27;990;1199;0;0.9;0;SP500;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina. Sin sesgo
 2026.11.27;990;1199;0;0.9;0;WS30;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina. Sin sesgo
-2026.11.30;0;1439;0;0.9;0;*;Lunes 30 cierre de mes con VIX alto (~28) y riesgo de subida Fed en diciembre y aranceles nuevos hasta 20% propuestos. Mercados abiertos normal. Sin sesgo hasta ver reaccion de chips tras el fin de semana
+2026.11.30;0;1439;0;0.9;0;*;Lunes 30 cierre de mes con VIX alto ~28, riesgo de subida Fed en diciembre y aranceles nuevos previstos para 2027. Mercados abiertos normal. Sin sesgo hasta ver reaccion de chips tras el fin de semana
+2026.11.30;0;485;0;1.0;0;NI225;Tokyo abierto lunes. Nikkei muy volatil (-5% en 2 semanas) con gaps desde el viernes de Wall Street. Sin sesgo
+2026.12.01;0;1439;0;0.9;0;*;Martes 1 dic inicio de mes: dato ISM manufacturero USA habitual 16:00 Paris (17:00 servidor) por confirmar. Subida Fed de diciembre ~96% descontada: sensibilidad a datos y discursos Fed. VIX alto. Sin sesgo
+2026.12.01;1000;1079;0;0.8;0;NDX;Ventana dato USA ~16:00 Paris (17:00 servidor): volatilidad alta, reducir tamano
+2026.12.01;1000;1079;0;0.8;0;SP500;Ventana dato USA ~16:00 Paris (17:00 servidor): volatilidad alta
+2026.12.01;1000;1079;0;0.8;0;WS30;Ventana dato USA ~16:00 Paris (17:00 servidor): volatilidad alta

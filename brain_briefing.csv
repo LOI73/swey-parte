@@ -1,13 +1,13 @@
 # fecha;min_ini;min_fin;sesgo;mult;bloqueo;simbolo;nota
 # Horas = hora del servidor (Paris+1). sesgo -1/0/1. mult 0.3-1.3. bloqueo 1 = no entrar.
-# Parte emitido 2026.11.27 00:10 servidor (viernes, tras Thanksgiving). Mercado nervioso por IA/chips y tipos: Nikkei ~57500-57800 (jueves +1.4% rebote, cierre exacto sin confirmar) tras -5% desde 61126 del 13-nov; Wall Street cerro miercoles NDX 26047 SP500 7183 Dow 50183 con VIX ~28; 10 anios ~4.81-4.86% con PCE core 3.3% y subida Fed de diciembre ~96% descontada; aranceles nuevos previstos para 2027; EEUU media sesion hoy. Sin confirmacion de tendencia: sesgo neutro.
-2026.11.27;0;1439;0;0.8;0;*;Viernes 27: EEUU media sesion con cierre 13:00 ET (19:00 Paris = 20:00 servidor) y liquidez muy baja tras Thanksgiving. Viernes sin entradas desde 20:00 servidor. VIX alto ~28 y subida Fed en diciembre casi descontada. Posible dato aleman IPC por la manana (hora por confirmar)
-2026.11.27;0;485;0;1.0;0;NI225;Tokyo abierto viernes con Nikkei ~57500-57800 tras rebote por IA/chips del jueves (SoftBank +9%). Sin Wall Street ayer: sesion sin guia de EEUU. USDJPY ~159 riesgo intervencion. Sin sesgo
-2026.11.27;990;1199;0;0.9;0;NDX;Apertura EEUU 15:30 Paris (16:30 servidor) tras Thanksgiving: sesion corta y fina con chips volatiles. Cierre 19:00 Paris. Sin sesgo
-2026.11.27;990;1199;0;0.9;0;SP500;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina. Sin sesgo
+# Parte emitido 2026.11.27 (viernes, tras Thanksgiving). Rebote fuerte pero fragil: futuros Nasdaq +2.4% y SP500 +1.6% tras cierre miercoles NDX -0.6% (minimo intradia -4.7%, -8.2% en noviembre) SP500 7183 Dow 50183 VIX 28.3; Nikkei +1.9% (-7.4% en el mes); 10 anios ~4.85-4.92% con subida Fed de diciembre ~96% descontada; petroleo WTI ~84-86 por ataques hutis a Arabia Saudi; oro ~3600; dolar fuerte. Sin confirmacion de tendencia: sesgo neutro.
+2026.11.27;0;1439;0;0.8;0;*;Viernes 27: EEUU media sesion con cierre 13:00 ET (19:00 Paris = 20:00 servidor) y liquidez muy baja tras Thanksgiving. Viernes sin entradas desde 20:00 servidor. VIX ~27-28 y posible gap alcista por futuros +2%. Eventos: IPC Francia 08:45 Paris, acta BCE 13:30 Paris, cumbre UE Bruselas. Sin datos USA ni Fed
+2026.11.27;0;485;0;1.0;0;NI225;Tokyo ya cerro viernes con Nikkei +1.9% por rebote tecnologico (semana +3.8% mes -7.4%). USDJPY ~159 riesgo intervencion. Sin sesgo
+2026.11.27;990;1199;0;0.9;0;NDX;Apertura EEUU 15:30 Paris (16:30 servidor) tras Thanksgiving con futuros Nasdaq +2% y VIX alto: sesion corta y fina con gap posible. Cierre 19:00 Paris. Sin sesgo
+2026.11.27;990;1199;0;0.9;0;SP500;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina con gap posible. Sin sesgo
 2026.11.27;990;1199;0;0.9;0;WS30;Apertura EEUU 15:30 Paris (16:30 servidor): sesion corta y fina. Sin sesgo
-2026.11.30;0;1439;0;0.9;0;*;Lunes 30 cierre de mes con VIX alto ~28, riesgo de subida Fed en diciembre y aranceles nuevos previstos para 2027. Mercados abiertos normal. Sin sesgo hasta ver reaccion de chips tras el fin de semana
-2026.11.30;0;485;0;1.0;0;NI225;Tokyo abierto lunes. Nikkei muy volatil (-5% en 2 semanas) con gaps desde el viernes de Wall Street. Sin sesgo
+2026.11.30;0;1439;0;0.9;0;*;Lunes 30 cierre de mes con VIX alto ~28, rebalanceo de fondos (pensiones compradoras ~15 mil M USD en acciones EEUU) y subida Fed de diciembre casi descontada. Mercados abiertos normal. Sin datos relevantes confirmados. Sin sesgo hasta ver continuidad del rebote
+2026.11.30;0;485;0;1.0;0;NI225;Tokyo abierto lunes. Nikkei muy volatil con gap segun cierre de Wall Street del viernes. Sin sesgo
 2026.12.01;0;1439;0;0.9;0;*;Martes 1 dic inicio de mes: dato ISM manufacturero USA habitual 16:00 Paris (17:00 servidor) por confirmar. Subida Fed de diciembre ~96% descontada: sensibilidad a datos y discursos Fed. VIX alto. Sin sesgo
 2026.12.01;1000;1079;0;0.8;0;NDX;Ventana dato USA ~16:00 Paris (17:00 servidor): volatilidad alta, reducir tamano
 2026.12.01;1000;1079;0;0.8;0;SP500;Ventana dato USA ~16:00 Paris (17:00 servidor): volatilidad alta
